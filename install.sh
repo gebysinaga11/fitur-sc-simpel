@@ -20,8 +20,9 @@ display_welcome() {
   echo -e "script ini di buat untuk mempermudah penginstalasian thema pterodactyle,"
   echo -e "Dilarang Keras Share Bebas."
   echo -e ""
-  echo -e "𝗧𝗘𝗟𝗘𝗚𝗥𝗔𝗠 :"
-  echo -e "@skyzodev"
+  echo -e "INSTAGRAM :"
+  echo -e "@marszllmanurung____"
+  echo -e "bel._sinaga"
   echo -e "𝗖𝗥𝗘𝗗𝗜𝗧𝗦 :"
   echo -e "@skyzopedia"
   sleep 4
